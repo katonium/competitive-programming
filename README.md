@@ -1,2 +1,8 @@
 # competitive-programming
 A personal repository for tracking my progress in competitive programming and refining core algorithms.
+
+# history
+
+| # | date | language | difficulty | result | task |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | 2025.10.03 | Go | ⬜ | ✅ | https://atcoder.jp/contests/abc418/tasks/abc418_a |
