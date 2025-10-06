@@ -6,3 +6,4 @@ A personal repository for tracking my progress in competitive programming and re
 | # | date | language | difficulty | result | task |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | 2025.10.03 | Go | ⬜ | ✅ | https://atcoder.jp/contests/abc418/tasks/abc418_a |
+| 2 | 2025.10.06 | Go | ⬜ | ✅ | https://atcoder.jp/contests/abc412/tasks/abc412_a |
