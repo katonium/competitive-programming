@@ -9,3 +9,4 @@ A personal repository for tracking my progress in competitive programming and re
 | 2 | 2025.10.06 | Go | ⬜ | ✅ | https://atcoder.jp/contests/abc412/tasks/abc412_a |
 | 3 | 2025.10.07 | Go, Rust | ⬜ | ✅ | https://atcoder.jp/contests/abc409/tasks/abc409_a |
 | 4 | 2025.10.08 | Go | ⬜ | ✅ | https://atcoder.jp/contests/abc408/tasks/abc408_a |
+| 5 | 2025.10.13 | 🦀Rust | ⬜ | ✅ | https://atcoder.jp/contests/abc416/tasks/abc416_a |
