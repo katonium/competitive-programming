@@ -12,6 +12,7 @@ __mkdir() {
     touch input3.txt
     touch main.go
     touch main.rs
+    echo "source ../../run.sh" > run.sh
 }
 
 clean:go(){
