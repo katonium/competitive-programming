@@ -76,5 +76,6 @@ fn main() {
             print!("{}", i + 1);
         }
     }
+    println!();
 }
 

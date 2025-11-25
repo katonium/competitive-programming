@@ -15,3 +15,4 @@ A personal repository for tracking my progress in competitive programming and re
 | 8 | 2025.10.23 | 🦀Rust | ⬜ | ✅ | https://atcoder.jp/contests/abc422/tasks/abc422_b |
 | 9 | 2025.10.24 | 🦀Rust | ⬜ | ❌ | https://atcoder.jp/contests/abc421/tasks/abc421_b |
 | 10 | 2025.11.06 | 🦀Rust | ⬜ | ✅ | https://atcoder.jp/contests/abc420/tasks/abc420_b |
+| 11 | 2025.11.25 | 🦀Rust | ⬜ | ✅ | https://atcoder.jp/contests/abc360/tasks/abc360_c |
